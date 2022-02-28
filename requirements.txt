@@ -1,3 +1,6 @@
 bluesky
 ophyd
 caproto
+jupyterlab
+matplotlib
+ipympl
